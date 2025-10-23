@@ -1,0 +1,9 @@
+{
+  "name": "My PWA",
+  "short_name": "MyPWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f3ba2",
+  "icons": []
+}
